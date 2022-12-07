@@ -28,25 +28,25 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v13.1.Core">
+    <Reference Include="DevExpress.Printing.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v13.1">
+    <Reference Include="DevExpress.Data.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v13.1">
+    <Reference Include="DevExpress.Utils.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v13.1">
+    <Reference Include="DevExpress.XtraEditors.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v13.1.Core">
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v13.1">
+    <Reference Include="DevExpress.XtraPrinting.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v13.1.Win">
+    <Reference Include="DevExpress.XtraGauges.v15.1.Win">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
